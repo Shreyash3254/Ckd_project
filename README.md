@@ -50,18 +50,10 @@ The dataset was used from Kaggle.
 | -------------- | ------------------------ | -------- |
 | Kidney-Disease       | Machine Learning Model   | 98.33%   |
 
-## Are you facing issues in running the code?
 
-![image](https://github.com/user-attachments/assets/ec7a7b21-1cb2-4992-8869-6ba8d0dca728)
 
 ![image](https://static.vecteezy.com/system/resources/previews/002/756/180/original/computer-error-screen-a-man-s-face-with-a-broken-facial-expression-is-floating-in-a-pop-up-window-hand-drawn-style-design-illustrations-vector.jpg)
 
-### Do Reach out to me at TopMate for 1:1 connect 👉🏻 [Kidney Disease Prediction project spport](https://topmate.io/venkata_sreeram/1113594)
-Last Tested: 28/07/2024
-## This will be useful for practicing machine learning.
-- If you like this Project - Give me a Star⭐
-- For more interesting Projects, Follow me on Github
-- [LinkedIN](https://linkedin.com/in/venkata-sreeram)
 
 CREATED BY HARSHAL J. JAGDALE
 
