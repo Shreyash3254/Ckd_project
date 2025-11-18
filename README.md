@@ -52,7 +52,8 @@ The dataset was used from Kaggle.
 
 
 
-
+OUTPUT:-
+<img width="1280" height="833" alt="image" src="https://github.com/user-attachments/assets/b5f1fc52-927c-4f23-9745-87af2cf480de" />
 
 CREATED BY HARSHAL J. JAGDALE
 
